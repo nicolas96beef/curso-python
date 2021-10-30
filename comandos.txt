@@ -1,0 +1,16 @@
+COMANDOS
+
+pwd -> saber en que carpeta estamos
+ls -> listar carpetas y archivos del directorio actual
+cd -> moverse a un directorio diferente
+    ejemplo: cd nombre-de-la-carpeta
+
+    cd .. -> subimos una carpeta mas arriba
+
+python ruta_completa_del_archivo o ruta_relativa -> ejecutar archivo de python
+
+
+ATAJOS DE TECLADO
+
+git bash:
+    ctrl + l -> limpiar consola

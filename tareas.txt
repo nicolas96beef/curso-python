@@ -1,0 +1,7 @@
+1. que es git? y buscar 3 comandos y que son y para que sirven
+2. que son variables en programacion y como son las variables en python
+
+
+Tarea 2 - 10/28/2021
+
+1. https://learngitbranching.js.org/
